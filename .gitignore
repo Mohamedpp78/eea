@@ -1,7 +1,7 @@
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
-.vscode/
+print"lanch
 #Cache folder
 .alcache/
 #Symbols folder
@@ -19,4 +19,4 @@ rad.json
 #License-file
 *.flf
 #Test results file
-TestResults.xml
+jontheripper
